@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @ilBiondojs
 - 🌱 I’m currently learning Basisinfomatik
 - 📫 How to reach me:
-- timo.c@justanotherwebsite.ch
-- timo.c@timocoupek.ch
+- timo.coupek@justanotherwebsite.ch
+- timo@timocoupek.ch
 - t.coupek@gmail.com
+
+
 
 <!---
 ilBiondojs/ilBiondojs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
